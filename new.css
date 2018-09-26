@@ -93,7 +93,7 @@ body {
     margin-left: 1360px;
   } 
 
-  .summary, .PI, .qualification,.programming {
+  .summary, .PI, .qualification, .programming {
     margin-top: 20px;
     width: 20%;
     background-image: url("e.jpg");
@@ -104,7 +104,7 @@ body {
 
   }
 
-  .summary h2, .PI h2, .qualification h2,.programming h2 {
+  .summary h2, .PI h2, .qualification h2, .programming h2 {
     text-align : center; 
     color: white;
   }
